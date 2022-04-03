@@ -546,6 +546,8 @@ class TrainStep:
                     # logger.info(reg_param.get('init_val'))
                     # logger.info(reg_param.get('omega'))
 
+                    # This is not the approach of original LAMOL repo.
+                    # but it is used by Mi et al. in https://github.com/MiFei/Continual-Learning-for-NLG
                     loss += args.reg_lambda * torch.sum(reg_param.get('omega') * (param - reg_param.get('init_val')) ** 2)
 
             # if torch.sum(reg_param.get('omega')) > 0:

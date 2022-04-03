@@ -25,7 +25,7 @@ EXP=CL_GEN
 # {0.12, 0.15, 0.17} {0.01, 0.05} for similar sequences
 # {0.03, 0.05, 0.07} {0.01, 0.05} for dissimilar sequences
 # Generally speaking these two hyperparameters are not to sentitive to each sequence, you are encouraged to do an exstensive search
-# Settings we use to report numbers: (might not be optimal, also could be differnt on difference devices)
+# Settings we use to report numbers: (might not be optimal, also could be differnt on difference devices, you are encouraged to do some search by yourself)
 # Seq1: 0.15, 0.01
 # Seq2: 0.15, 0.01
 # Seq3: 0.15, 0.01
