@@ -1,5 +1,7 @@
 # Adaptive-Compositional-Modules
-Code for the ACL 2022 paper *Yanzhe Zhang, Xuezhi Wang and Diyi Yang*: Continual Sequence Generation with Adaptive Compositional Modules
+Code for the ACL 2022 paper 
+
+*Yanzhe Zhang, Xuezhi Wang and Diyi Yang*: Continual Sequence Generation with Adaptive Compositional Modules
 
 [Arxiv version](https://arxiv.org/abs/2203.10652)
 
