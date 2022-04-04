@@ -5,6 +5,8 @@ Code for the ACL 2022 paper
 
 [Arxiv version](https://arxiv.org/abs/2203.10652)
 
+![Model Growing Process](./v2.gif)
+
 ```
 @misc{zhang2022continual,
     title={Continual Sequence Generation with Adaptive Compositional Modules},
